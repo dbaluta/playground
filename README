@@ -1,0 +1,25 @@
+Task 1
+
+Split commit with subject 'abc: Add a b c files'
+into 3 comits each commit adding just one file.
+
+This means will end up with 3 commits:
+
+a: Add a file
+b: Add b file
+c: Add c file
+
+Create a pull request with the commits
+
+Task 2
+
+Split each of the 3 above commits into multiple commits
+each commit adding just one line.
+
+For commit 'a: Add a file' you will end up with 3 more commits
+
+a: add line 1
+a: add line 2
+a: add line 3
+
+Create a pull request with the commits
